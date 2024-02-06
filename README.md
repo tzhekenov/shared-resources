@@ -4,7 +4,7 @@ Hey there, dear students 👋
 
 This repository contains shared resources useful for you during your realization of the course 🛠!
 
-The shared resources you can find here are:
+The shared resources you can (or will) find here are:
 
 * The `student-stack` Terraform module: This module exists to help you provision your Cloud resources 
   during the section of the course related to Cloud computing and Infrastructure-as-Code (IaC). It deploys 
