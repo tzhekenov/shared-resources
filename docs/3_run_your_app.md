@@ -92,6 +92,7 @@ To do so, you can inspire yourself from the following example commands:
 
 ```bash
 # On your EC2 instance
+sudo su
 aws ecr get-login-password --region eu-west-3 | docker login --username AWS --password-stdin 516454187396.dkr.ecr.eu-west-3.amazonaws.com
 docker pull 516454187396.dkr.ecr.eu-west-3.amazonaws.com/testuser:latest
 
