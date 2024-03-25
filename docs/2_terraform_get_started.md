@@ -135,5 +135,5 @@ module. To do so:
 
 You have now deployed your `student-stack` with all the AWS resources it contains. You can now use 
 the outputs of the module to connect to your EC2 instance and run your Docker image from there. Refer
-to the [dedicated documentation page](./run_your_app.md) to learn how to connect to your EC2 instance
+to the [dedicated documentation page](./3_run_your_app.md) to learn how to connect to your EC2 instance
 and run your application.
